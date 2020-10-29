@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\morri\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\morri\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_RuneSeeker.1618639846.00" t="ExcludeRecursive" />
+    <e p="C:\Users\morri\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="D:\Programming\Unity\RuneSeeker" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Addons" t="Include">
+          <e p="Fingers" t="Include">
+            <e p="ChangeLog.txt" t="Include" />
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="DemoAsteroidScript.cs" t="Include" />
+                <e p="DemoScript.cs" t="Include" />
+                <e p="DemoScript3DOrbit.cs" t="Include" />
+                <e p="DemoScriptComponent.cs" t="Include" />
+                <e p="DemoScriptDPad.cs" t="Include" />
+                <e p="DemoScriptDragSwipe.cs" t="Include" />
+                <e p="DemoScriptDynamicGrid.cs" t="Include" />
+                <e p="DemoScriptImage.cs" t="Include" />
+                <e p="DemoScriptJoystick.cs" t="Include" />
+                <e p="DemoScriptMultiDrag.cs" t="Include" />
+                <e p="DemoScriptMultiFingerTap.cs" t="Include" />
+                <e p="DemoScriptOneFinger.cs" t="Include" />
+                <e p="DemoScriptPan.cs" t="Include" />
+                <e p="DemoScriptPlatformSpecificView.cs" t="Include" />
+                <e p="DemoScriptRaycast.cs" t="Include" />
+                <e p="DemoScriptSwipe.cs" t="Include" />
+                <e p="DemoScriptTapAndDoubleTap.cs" t="Include" />
+                <e p="DemoScriptZoomableScrollView.cs" t="Include" />
+                <e p="DemoScriptZoomPanCamera.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Prefab" t="Include">
+              <e p="Script" t="Include">
+                <e p="Components" t="Include">
+                  <e p="FingersCrossPlatformInputReflectionScript.cs" t="Include" />
+                  <e p="FingersDragDropComponentScript.cs" t="Include" />
+                  <e p="FingersFirstPersonControllerScript.cs" t="Include" />
+                  <e p="FingersImageGestureHelperComponentScript.cs" t="Include" />
+                  <e p="FingersJoystickAnywhereComponentScript.cs" t="Include" />
+                  <e p="FingersMultiDragComponentScript.cs" t="Include" />
+                  <e p="FingersPanOrbitComponentScript.cs" t="Include" />
+                  <e p="FingersPanRotateScaleComponentScript.cs" t="Include" />
+                  <e p="FingersPlatformMoveJumpComponentScript.cs" t="Include" />
+                  <e p="FingersRotateOrbitComponentScript.cs" t="Include" />
+                  <e p="FingersScrollViewComponentScript.cs" t="Include" />
+                  <e p="FingersThirdPersonControllerScript.cs" t="Include" />
+                  <e p="FingersZoomPanCameraComponentScript.cs" t="Include" />
+                  <e p="GestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="ImageGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="LongPressGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="OneTouchRotateGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="OneTouchScaleGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="PanGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="RotateGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="ScaleGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="SwipeGestureRecognizerComponentScript.cs" t="Include" />
+                  <e p="TapGestureRecognizerComponentScript.cs" t="Include" />
+                </e>
+                <e p="Controls" t="Include">
+                  <e p="FingersDPadScript.cs" t="Include" />
+                  <e p="FingersImageAutomationScript.cs" t="Include" />
+                  <e p="FingersJoystickScript.cs" t="Include" />
+                </e>
+                <e p="FingersScript.cs" t="Include" />
+                <e p="Gestures" t="Include">
+                  <e p="DeviceInfo.cs" t="Include" />
+                  <e p="GestureRecognizer.cs" t="Include" />
+                  <e p="ImageGestureRecognizer.cs" t="Include" />
+                  <e p="LongPressGestureRecognizer.cs" t="Include" />
+                  <e p="OneTouchRotateGestureRecognizer.cs" t="Include" />
+                  <e p="OneTouchScaleGestureRecognizer.cs" t="Include" />
+                  <e p="PanGestureRecognizer.cs" t="Include" />
+                  <e p="RotateGestureRecognizer.cs" t="Include" />
+                  <e p="ScaleGestureRecognizer.cs" t="Include" />
+                  <e p="SwipeGestureRecognizer.cs" t="Include" />
+                  <e p="TapGestureRecognizer.cs" t="Include" />
+                </e>
+                <e p="Other" t="Include">
+                  <e p="FingersUtilityMethodsScript.cs" t="Include" />
+                  <e p="XamarinAndroidTouchAdapter.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="RainEntertainment" t="Include">
+            <e p="FantasyMonster2" t="Include">
+              <e p="Heavy Spear Pack" t="Include">
+                <e p="Readme.txt" t="Include" />
+              </e>
+            </e>
+            <e p="FantasyMonster4" t="Include">
+              <e p="Diamond Lord" t="Include">
+                <e p="Readme.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="RainEntertainment" t="Include">
+          <e p="FantasyMonster2" t="Include">
+            <e p="Elf Mage Pack" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="FantasyMonster4" t="Include">
+            <e p="Centaur War Lord" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+            <e p="Skeleton Blade" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="MonsterGroup1" t="Include">
+            <e p="WarChimera" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="GestureSet" t="Include">
+            <e p="10-stylus-MEDIUM" t="Include">
+              <e p="10-stylus-medium-arrowhead-01.xml" t="Include" />
+              <e p="10-stylus-medium-asterisk-01.xml" t="Include" />
+              <e p="10-stylus-medium-D-01.xml" t="Include" />
+              <e p="10-stylus-medium-exclamation_point-01.xml" t="Include" />
+              <e p="10-stylus-medium-five_point_star-01.xml" t="Include" />
+              <e p="10-stylus-medium-H-01.xml" t="Include" />
+              <e p="10-stylus-medium-half_note-01.xml" t="Include" />
+              <e p="10-stylus-medium-I-01.xml" t="Include" />
+              <e p="10-stylus-medium-line-01.xml" t="Include" />
+              <e p="10-stylus-medium-N-01.xml" t="Include" />
+              <e p="10-stylus-medium-null-01.xml" t="Include" />
+              <e p="10-stylus-medium-P-01.xml" t="Include" />
+              <e p="10-stylus-medium-pitchfork-01.xml" t="Include" />
+              <e p="10-stylus-medium-six_point_star-01.xml" t="Include" />
+              <e p="10-stylus-medium-T-01.xml" t="Include" />
+              <e p="10-stylus-medium-X-01.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AppController.cs" t="Include" />
+          <e p="BattleEnd.cs" t="Include" />
+          <e p="ButtonAnimation.cs" t="Include" />
+          <e p="CloseBookScript.cs" t="Include" />
+          <e p="ContentScript.cs" t="Include" />
+          <e p="CustomHealth.cs" t="Include" />
+          <e p="CustomPlayerHealth.cs" t="Include" />
+          <e p="CustomPlayerMana.cs" t="Include" />
+          <e p="Dialogue.cs" t="Include" />
+          <e p="DialogueActions.cs" t="Include" />
+          <e p="DialogueManager.cs" t="Include" />
+          <e p="DialogueReplique.cs" t="Include" />
+          <e p="EndManager.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyHealthCurrent.cs" t="Include" />
+          <e p="FadeMainMenu.cs" t="Include" />
+          <e p="Fight1Manager.cs" t="Include" />
+          <e p="Fight2Manager.cs" t="Include" />
+          <e p="Fight3Manager.cs" t="Include" />
+          <e p="Fight4Manager.cs" t="Include" />
+          <e p="Fight5Manager.cs" t="Include" />
+          <e p="FightManager.cs" t="Include" />
+          <e p="GlobalSettings.cs" t="Include" />
+          <e p="HealthBarTextScript.cs" t="Include" />
+          <e p="HealthPotions.cs" t="Include" />
+          <e p="HealthPotionsNumbers.cs" t="Include" />
+          <e p="IntroductionManager.cs" t="Include" />
+          <e p="InventoryManager.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="LoadButtonScript.cs" t="Include" />
+          <e p="LogsOpener.cs" t="Include" />
+          <e p="MagicBook.cs" t="Include" />
+          <e p="MagicSpell.cs" t="Include" />
+          <e p="MainMenuUIManager.cs" t="Include" />
+          <e p="ManaBarTextScript.cs" t="Include" />
+          <e p="Managers.cs" t="Include" />
+          <e p="ManaPotions.cs" t="Include" />
+          <e p="ManaPotionsNumbers.cs" t="Include" />
+          <e p="MapManager.cs" t="Include" />
+          <e p="Messenger.cs" t="Include" />
+          <e p="MusicManager.cs" t="Include" />
+          <e p="NameInput.cs" t="Include" />
+          <e p="Phone.cs" t="Include" />
+          <e p="PhoneTimer.cs" t="Include" />
+          <e p="PlayerManager.cs" t="Include" />
+          <e p="SceneManager.cs" t="Include" />
+          <e p="SettingsMenuManager.cs" t="Include" />
+          <e p="Simple Scene Fader" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Main" t="Include">
+                <e p="SimpleSceneFader.cs" t="Include" />
+                <e p="SSF_Add.cs" t="Include" />
+              </e>
+              <e p="Others" t="Include">
+                <e p="MainCamScene1.cs" t="Include" />
+                <e p="MainCamScene2.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SpellBookScript.cs" t="Include" />
+          <e p="StartGame.cs" t="Include" />
+          <e p="UiAnimation.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+          <e p="UIManagerPreset.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RuneSeeker.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
