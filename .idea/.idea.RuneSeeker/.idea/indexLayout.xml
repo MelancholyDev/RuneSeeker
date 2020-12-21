@@ -21,6 +21,7 @@
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.gradle</Path>
       <Path>.idea</Path>
       <Path>.vs</Path>
